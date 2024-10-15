@@ -4,24 +4,24 @@ import './style.css';
 // import { initializeApp } from 'firebase/app';
 
 // Add the Firebase products and methods that you want to use
-// import { 
-//  getAuth, 
-//  EmailAuthProvider, 
-//  signOut,
-//  onAuthStateChanged
-// } from 'firebase/auth';
+import { 
+  getAuth, 
+  EmailAuthProvider, 
+  signOut,
+  onAuthStateChanged
+ } from 'firebase/auth';
 
 // import {
-//  getFirestore,
-//  addDoc,
-//  collection,
-//  query,
-//  orderBy,
-//  onSnapshot,
-//  doc,
-//  setDoc,
-//  where
-// } from 'firebase/firestore';
+  getFirestore,
+  addDoc,
+  collection,
+  query,
+  orderBy,
+  onSnapshot,
+  doc,
+  setDoc,
+  where
+ } from 'firebase/firestore';
 
 // import * as firebaseui from 'firebaseui';
 
