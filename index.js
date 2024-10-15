@@ -1,4 +1,4 @@
-// Import stylesheets
+// Import stylesheets 1
 import './style.css';
 // Firebase App (the core Firebase SDK) is always required
 // import { initializeApp } from 'firebase/app';
