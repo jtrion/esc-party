@@ -1,29 +1,29 @@
 // Import stylesheets
 import './style.css';
 // Firebase App (the core Firebase SDK) is always required
-import { initializeApp } from 'firebase/app';
+// import { initializeApp } from 'firebase/app';
 
 // Add the Firebase products and methods that you want to use
-import { 
-  getAuth, 
-  EmailAuthProvider, 
-  signOut,
-  onAuthStateChanged
-} from 'firebase/auth';
+// import { 
+//  getAuth, 
+//  EmailAuthProvider, 
+//  signOut,
+//  onAuthStateChanged
+// } from 'firebase/auth';
 
-import {
-  getFirestore,
-  addDoc,
-  collection,
-  query,
-  orderBy,
-  onSnapshot,
-  doc,
-  setDoc,
-  where
-} from 'firebase/firestore';
+// import {
+//  getFirestore,
+//  addDoc,
+//  collection,
+//  query,
+//  orderBy,
+//  onSnapshot,
+//  doc,
+//  setDoc,
+//  where
+// } from 'firebase/firestore';
 
-import * as firebaseui from 'firebaseui';
+// import * as firebaseui from 'firebaseui';
 
 // Document elements
 const startRsvpButton = document.getElementById('startRsvp');
