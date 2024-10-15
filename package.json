@@ -1,4 +1,5 @@
 {
+  "type": "module"
   "name": "ESC Party",
   "version": "2.0.1",
   "private": true,
